@@ -1,0 +1,1 @@
+javascript:void function()%7Bvar a=document,b=a.querySelectorAll.bind(a),c=window.location.hostname,d=b("button%5Baria-label%5E=%5C"Like (%5C"%5D"),e=%5B...d%5D.filter(a=>!!a.offsetParent);e.forEach(a=>a.click())%7D();
